@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Арт-пространство</string>
+
+    <string name="photo1_title">Стильный пернатый</string>
+    <string name="photo1_artist">Аркадий Соколов</string>
+    <string name="photo1_year">2023</string>
+
+    <string name="photo2_title">Философия на скамейке</string>
+    <string name="photo2_artist">Василий Мурлыкин</string>
+    <string name="photo2_year">2024</string>
+
+    <string name="photo3_title">Интеллектуальная жаба</string>
+    <string name="photo3_artist">Ква Кваров</string>
+    <string name="photo3_year">2026</string>
+
+    <string name="next">Вперед</string>
+    <string name="previous">Назад</string>
+</resources>
