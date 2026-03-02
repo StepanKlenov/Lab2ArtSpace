@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">ArtSpace</string>
+    <string name="app_name">Art Space</string>
+
+    <string name="photo1_title">Stylish Blue Bird</string>
+    <string name="photo1_artist">Arkadit Sokolov</string>
+    <string name="photo1_year">2023</string>
+
+    <string name="photo2_title">Philosopher Cat</string>
+    <string name="photo2_artist">Vasily Murlykin</string>
+    <string name="photo2_year">2024</string>
+
+    <string name="photo3_title">Intellectual Toad</string>
+    <string name="photo3_artist">Kva Kvarov</string>
+    <string name="photo3_year">2026</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>
